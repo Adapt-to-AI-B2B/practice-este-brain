@@ -18,7 +18,6 @@ session.
 | `data/raw/` | Exports from Este's systems: Shopify, Sage, Notion, the production-plan spreadsheet |
 | `data/warehouse.sqlite` | All of it in one database, ready to ask questions of |
 | `CLAUDE.md` | What Claude reads first: where each number comes from, and what the words mean |
-| `questions.md` | 25 questions to try in class |
 | `load.py` | Rebuilds the database from the exports |
 | `pg.py` | Instructor only: publishes the database to the shared Postgres copy (Supabase) |
 | `tools/pull_shopify.py` | Pulls live stock from Shopify |
